@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WebAssigment3/static/css/main.8c5a03ca.css",
+    "main.js": "/WebAssigment3/static/js/main.3a0a7a8b.js",
+    "static/media/my Dp.jpg": "/WebAssigment3/static/media/my Dp.98d72b1f52f445754b32.jpg",
+    "static/media/home-bg.jpg": "/WebAssigment3/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/WebAssigment3/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/WebAssigment3/index.html",
+    "main.8c5a03ca.css.map": "/WebAssigment3/static/css/main.8c5a03ca.css.map",
+    "main.3a0a7a8b.js.map": "/WebAssigment3/static/js/main.3a0a7a8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c5a03ca.css",
+    "static/js/main.3a0a7a8b.js"
+  ]
+}
